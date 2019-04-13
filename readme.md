@@ -1,3 +1,5 @@
-###PageKit One Dark
-#Install
+# PageKit One Dark
+
+### Install
+
 Simply replace `theme.css`
